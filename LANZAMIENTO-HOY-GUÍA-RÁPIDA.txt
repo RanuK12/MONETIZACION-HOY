@@ -1,0 +1,95 @@
+🚀 LANZAMIENTO HOY - GUÍA RÁPIDA (30 MIN MÁXIMO)
+
+═══════════════════════════════════════════════════════════════════
+
+RESUMEN:
+- 3 productos digitales en Gumroad ($7, $10, $5)
+- 5 tweets en X/Twitter
+- 3 posts en Reddit (opcional)
+- Objetivo: Primer cliente en 24-48h
+
+═══════════════════════════════════════════════════════════════════
+
+PASO 1: GUMROAD (15 MIN)
+─────────────────────────
+
+1. Abre gumroad.com
+2. Login: tanquer9@gmail.com / Completa 2FA
+3. Dashboard → Products → New Product
+
+PRODUCTO 1:
+- Nombre: LinkedIn Content Generator
+- Precio: $7
+- Archivo: ~/Desktop/MONETIZACION-HOY/kit-1-linkedin-content-generator.md
+- Publish
+
+PRODUCTO 2:
+- Nombre: Customer Feedback Analyzer
+- Precio: $10
+- Archivo: ~/Desktop/MONETIZACION-HOY/kit-2-customer-feedback-analyzer.md
+- Publish
+
+PRODUCTO 3:
+- Nombre: Product Description Generator
+- Precio: $5
+- Archivo: ~/Desktop/MONETIZACION-HOY/kit-3-product-description-generator.md
+- Publish
+
+COPIAR LOS 3 LINKS A:
+📋 ~/Desktop/MONETIZACION-HOY/monetizacion-tracking.csv
+
+═══════════════════════════════════════════════════════════════════
+
+PASO 2: TWITTER (5 MIN)
+──────────────────────
+
+1. Abre x.com
+2. Login: ranucoliemilio@gmail.com / Completa verificación
+3. Copia cada tweet de: ~/Desktop/MONETIZACION-HOY/tweets-5-unidades.txt
+4. Publica 1 tweet cada 5 min (espera a que cargue)
+
+INCLUYE EN BIO o en cada tweet:
+→ Links de Gumroad (de Paso 1)
+
+═══════════════════════════════════════════════════════════════════
+
+PASO 3: REDDIT (10 MIN - OPCIONAL)
+──────────────────────────────────
+
+1. reddit.com/r/MakeMyMoney
+   - Copiar POST 1 de: ~/Desktop/MONETIZACION-HOY/reddit-posts-3-unidades.txt
+   - Publicar
+
+2. reddit.com/r/automation
+   - Copiar POST 2
+   - Publicar
+
+3. reddit.com/r/EntrepreneurRideAlong (opcional)
+   - Copiar POST 3
+   - Publicar
+
+═══════════════════════════════════════════════════════════════════
+
+ARCHIVOS IMPORTANTES:
+- kit-1-linkedin-content-generator.md → Producto 1
+- kit-2-customer-feedback-analyzer.md → Producto 2
+- kit-3-product-description-generator.md → Producto 3
+- tweets-5-unidades.txt → Contenido Twitter
+- reddit-posts-3-unidades.txt → Contenido Reddit
+- monetizacion-tracking.csv → Guardar URLs aquí ⭐
+
+═══════════════════════════════════════════════════════════════════
+
+DESPUÉS DEL LANZAMIENTO:
+✅ Monitor Gumroad (primeras 24h) → Sales tab
+✅ Responde replies en Twitter
+✅ Engage en Reddit (responde comentarios)
+✅ Actualiza monetizacion-tracking.csv con números de venta
+
+═══════════════════════════════════════════════════════════════════
+
+TIEMPO TOTAL: 30 minutos
+RESULTADO: 3 productos LIVE + publicidad orgánica
+POTENCIAL: $22-35 USD en primeras 48h (conservador)
+
+¡Vamos! 🚀

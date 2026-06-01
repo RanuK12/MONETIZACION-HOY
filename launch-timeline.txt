@@ -1,0 +1,345 @@
+LAUNCH TIMELINE - ORDEN EXACTO DE ACCIONES
+===========================================
+
+## DÍA 0: PREPARACIÓN (AYER)
+- [x] Crear 3 kits (ya los tenés)
+- [x] Copiar descripciones de productos
+- [x] Descargar portadas de Canva
+- [x] Preparar tweets/posts
+
+---
+
+## DÍA 1 (HOY): LAUNCH DAY
+
+### ⏰ 09:00 - Crear Cuentas (15 min)
+
+```
+[ ] 09:00 - Gumroad signup
+    - Email + contraseña
+    - Completa perfil mínimo
+    - Verifica email
+
+[ ] 09:05 - Stripe connection
+    - Settings → Payouts
+    - Connect to Stripe
+    - Sube documentos
+    - ⏳ ESPERA APROBACIÓN (2-24h en background)
+
+[ ] 09:10 - Twitter
+    - Si no tienes: crea ahora
+    - Avatar + bio con link a Gumroad
+    - Síguete a ti mismo
+
+[ ] 09:15 - Reddit verificación
+    - Si no tienes: crea ahora
+    - Verifica email
+```
+
+### ⏰ 09:30 - Publicar en Gumroad (10 min)
+
+**Producto 1:**
+```
+[ ] 09:30 - LinkedIn Kit
+    - Title: [copia exacta de archivo]
+    - Description: [copia exacta de archivo]
+    - Price: $19
+    - Image: [sube portada]
+    - Content file: kit-1-linkedin-content-generator.md
+    - Publish
+    - 📌 Guarda el link
+```
+
+**Producto 2:**
+```
+[ ] 09:35 - Feedback Kit
+    - Title: [copia exacta]
+    - Description: [copia exacta]
+    - Price: $19
+    - Image: [sube portada]
+    - Content file: kit-2-customer-feedback-analyzer.md
+    - Publish
+    - 📌 Guarda el link
+```
+
+**Producto 3:**
+```
+[ ] 09:40 - Copy Kit
+    - Title: [copia exacta]
+    - Description: [copia exacta]
+    - Price: $19
+    - Image: [sube portada]
+    - Content file: kit-3-product-description-generator.md
+    - Publish
+    - 📌 Guarda el link
+```
+
+### ⏰ 09:45 - Marketing Blitz (30 min)
+
+**Twitter - Primera ola (5 min):**
+```
+[ ] 09:45 - Tweet 1 (Announcement)
+    Texto: [copia de tweets-5-unidades.txt]
+    Agrega links de los 3 productos
+    Publica
+    
+[ ] 09:50 - Like + Reply a menciones
+    (Monitorea primeros minutos)
+```
+
+**Reddit - Post 1 (5 min):**
+```
+[ ] 09:55 - r/MakeMyMoney post
+    - Title: "Built 3 Automation Kits..."
+    - Body: [copia POST 1 de reddit-posts-3-unidades.txt]
+    - Agrega links
+    - Publica
+    
+[ ] 10:00 - Responde TODOS los comentarios rápido
+```
+
+**Facebook - Post 1 (5 min):**
+```
+[ ] 10:05 - Grupo de Makers (elige 1 primero)
+    - Copy: [OPCIÓN 1 de facebook-copy.txt]
+    - Publica
+    
+[ ] 10:10 - Responde comentarios
+    (Mantén respuesta rápida)
+```
+
+**LinkedIn - Opcional (5 min):**
+```
+[ ] 10:15 - Tu perfil personal
+    - Post 1 (de tweets adaptado)
+    - Agrega links
+    - Publica
+```
+
+**Email - Si tienes lista (5 min):**
+```
+[ ] 10:20 - Envía a tu lista
+    - Subject: "3 automation kits launching today ($19 each)"
+    - Body: [de cuentas-necesarias.txt, sección Email]
+    - Send
+```
+
+### ⏰ 10:30 - Monitoreo Activo (60 min)
+
+```
+[ ] 10:30-11:00 - Responde TODOS comentarios
+    - Twitter replies
+    - Reddit comments
+    - Facebook comments
+    - Email questions
+    
+    REGLA: Responde dentro de 15 minutos máximo
+    (Primeras 60 min son críticos)
+
+[ ] 11:00-11:30 - Monitorea ventas en Gumroad
+    - Cada venta es notificada
+    - Responde con thank-you message
+    - Pide feedback
+
+[ ] 11:30-12:00 - Retweets/shares estratégicos
+    - Retwittea tu propio post
+    - Share en historias
+    - Menciona en replies
+```
+
+### ⏰ 12:00 - Segunda ola de contenido (15 min)
+
+```
+[ ] 12:00 - Tweet 2 (diferente ángulo)
+    - Texto: [copia de tweets-5-unidades.txt]
+    - Publica
+    
+[ ] 12:05 - Reddit Post 2 (subreddit diferente)
+    - r/automation
+    - Copia: [POST 2 de reddit-posts-3-unidades.txt]
+    - Publica
+
+[ ] 12:10 - Facebook Post 2 (grupo diferente)
+    - Copia: [OPCIÓN 2 de facebook-copy.txt]
+    - Publica
+    
+[ ] 12:15 - Responde comentarios nuevos
+```
+
+---
+
+## DÍAS 2-3: MANTENER MOMENTUM
+
+### ⏰ 09:00 - Morning Check
+
+```
+[ ] Ver ventas de ayer
+    - Gumroad dashboard
+    - Stripe transactions
+    
+[ ] Responder comentarios pendientes
+    - Twitter
+    - Reddit
+    - Facebook
+    - Emails
+```
+
+### ⏰ 18:00 - Tarde: Segunda ola
+
+```
+[ ] Tweet 3 (diferente ángulo)
+    - Copia de tweets-5-unidades.txt
+    
+[ ] Reddit Post 3 (tercer subreddit)
+    - r/EntrepreneurRideAlong
+    - Copia: [POST 3]
+    
+[ ] Facebook Post 2 (segundo grupo o re-share)
+    - Copia: [OPCIÓN 3]
+```
+
+---
+
+## DÍA 4-7: CONSOLIDAR
+
+### Lunes
+```
+[ ] Facebook Post
+    - OPCIÓN 1 (reaparece, diferente grupo)
+```
+
+### Miércoles
+```
+[ ] Twitter Thread
+    - Haz un hilo con 5 tweets sobre beneficios
+    - Incluye links
+```
+
+### Viernes
+```
+[ ] Reddit Post (re-post en diferente sub)
+    - Usar POST 1 en subreddit diferente
+```
+
+### Fin de semana
+```
+[ ] Análisis
+    - Cuántas ventas en total
+    - Cuál producto vende más
+    - Cuál plataforma genera más tráfico
+    - Qué feedback recibiste
+```
+
+---
+
+## SEMANA 2: OPTIMIZACIÓN
+
+### Acciones basadas en resultados
+
+```
+Si ventas < 5:
+[ ] Aumenta Twitter posts (2-3x/día)
+[ ] Pide feedback directo en replies
+[ ] Mejora descripción de productos (A/B test)
+
+Si ventas 5-15:
+[ ] Mantén ritmo actual
+[ ] Crea contenido educativo (posts sobre uso de kits)
+[ ] Busca micro-influencers para share
+
+Si ventas > 15:
+[ ] Prepara próximo producto
+[ ] Crea bundle con descuento
+[ ] Aumenta precio (a $29-39)
+```
+
+---
+
+## CHECKLIST FINAL
+
+### Antes de 09:00 del Día 1:
+- [x] 3 kits guardados correctamente
+- [x] Descripciones de productos copiadas
+- [x] Portadas diseñadas en Canva
+- [x] Tweets/posts preparados
+- [x] Links de Gumroad listos (los gets durante publish)
+
+### Después de 12:15 del Día 1 (END OF LAUNCH DAY):
+- [ ] 3 productos en Gumroad
+- [ ] 2 tweets publicados
+- [ ] 2 posts en Reddit
+- [ ] 1-2 posts en Facebook
+- [ ] Email enviado (si aplica)
+- [ ] 50+ primeras interacciones respondidas
+
+### Primeros 3 días:
+- [ ] Monitoreo consistente
+- [ ] Respuesta rápida a preguntas
+- [ ] Al menos 1 nuevo post diario
+- [ ] Feedback documentado
+
+---
+
+## TIMELINE VISUAL
+
+```
+Día 1:
+09:00 ────── 09:30 ────── 09:45 ────── 10:30 ────── 12:00 ────── 18:00
+Setup      Gumroad    Marketing   Monitoreo   2a ola    Cierre
+(15min)    (10min)     Blitz       Activo      (15min)
+
+Día 2-7:
+09:00           18:00
+Check      Marketing
+(10min)    Content
+           (30min)
+
+Semana 2+:
+Optimizar based on data
+```
+
+---
+
+## MÉTRICAS A TRACKEAR
+
+Crea este archivo: `monetizacion-tracking.csv`
+
+```
+fecha,plataforma,tipo,metrica,numero
+2026-04-16,twitter,post,reach,450
+2026-04-16,twitter,post,engagement,25
+2026-04-16,reddit,post,upvotes,12
+2026-04-16,reddit,post,comments,5
+2026-04-16,facebook,post,likes,8
+2026-04-16,gumroad,venta,ingresos_usd,19
+2026-04-16,gumroad,venta,producto,1
+```
+
+---
+
+## RED FLAGS & FIXES
+
+| Problema | Solución |
+|----------|----------|
+| Sin ventas en 24h | Aumenta posts, mejor copy |
+| Solo 1 producto vende | Enfoca en ese, descontinúa otros |
+| Twitter no crece | Reddit + Facebook sí funciona, mueve presupuesto |
+| Demasiados comentarios | Responde en batches cada 30min |
+| Stripe aún no aprueba | Usa PayPal como backup temporal |
+
+---
+
+## RESUMEN TIMING
+
+**Launch Day (Día 1):** 09:00-18:00 activo
+- Setup: 15 min
+- Productos: 10 min
+- Marketing: 30 min
+- Monitoreo: 60+ min
+- Total: ~2-3 horas de trabajo
+
+**Días 2-3:** 1 hora/día
+**Semana 2+:** 30 min/día (mantener)
+
+**Total inversión de tiempo: 5-6 horas para lanzar y estabilizar.**
+
+Después de eso, es solo monitoreo y respuestas rápidas.

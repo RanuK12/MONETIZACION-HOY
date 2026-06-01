@@ -1,0 +1,245 @@
+CUENTAS NECESARIAS - QUÉ CREAR ANTES DE VENDER
+==============================================
+
+## CUENTAS OBLIGATORIAS (3)
+
+### 1. GUMROAD (Plataforma de Venta)
+Qué es: Donde publicas y vendes tus kits
+Costo: GRATIS (toman 10% de comisión)
+Tiempo setup: 3 minutos
+Link: gumroad.com
+
+Qué necesitas para crearla:
+- Email (cualquiera)
+- Contraseña
+- Nada más
+
+Setup rápido:
+1. Ve a gumroad.com
+2. Click "Sign Up"
+3. Email + pass
+4. Verifica email
+5. Listo
+
+---
+
+### 2. STRIPE (Procesador de Pagos)
+Qué es: Procesa tarjetas de crédito/débito
+Costo: GRATIS (cobran ~3% por transacción)
+Tiempo setup: 5 minutos
+Link: stripe.com
+
+Qué necesitas:
+- Email
+- Documento de identidad (foto)
+- Número de teléfono
+- Cuenta bancaria (para recibir dinero)
+- Comprobante de domicilio (foto DNI o factura de servicios)
+
+Setup rápido:
+1. Gumroad → Settings → Payouts
+2. Click "Connect to Stripe"
+3. Completa el formulario
+4. Sube fotos de documentos
+5. Espera aprobación (2-24h)
+6. Listo
+
+🚨 IMPORTANTE: Sin Stripe conectado, NO puedes vender en Gumroad.
+
+---
+
+### 3. TWITTER (Marketing)
+Qué es: Donde promocionas los kits
+Costo: GRATIS
+Tiempo setup: 30 segundos (si ya tienes cuenta)
+Link: twitter.com
+
+Qué necesitas:
+- Email
+- Teléfono (para verificación)
+- Nada más
+
+Setup:
+1. Si tienes cuenta → salta al paso 5
+2. Si no: ve a twitter.com → Sign Up
+3. Email + datos
+4. Verifica teléfono
+5. Personaliza:
+   - Avatar
+   - Bio (con link a Gumroad)
+   - Website
+
+---
+
+## CUENTAS OPCIONALES (pero recomendadas)
+
+### 4. REDDIT
+Qué es: Comunidad donde promocionas
+Costo: GRATIS
+Tiempo setup: 2 minutos
+Link: reddit.com
+
+Solo necesitas:
+- Email
+- Username
+
+Subreddits donde publicar:
+- r/MakeMyMoney
+- r/automation
+- r/EntrepreneurRideAlong
+- r/SideHustles
+- r/Productivity
+
+---
+
+### 5. FACEBOOK (Grupos)
+Qué es: Grupos de makers donde promocionas
+Costo: GRATIS (pero debe estar verificada)
+Tiempo setup: 0 minutos (probablemente ya tienes)
+Link: facebook.com
+
+Grupos donde publicar:
+- "Makers Latinoamérica"
+- "Emprendimiento Digital"
+- "Marketing Digital 2024"
+- Busca "Makers", "Automation", "Digital Products"
+
+---
+
+### 6. EMAIL LIST (HubSpot Gratuito)
+Qué es: Enviar emails a clientes
+Costo: GRATIS (hasta 2000 contactos)
+Tiempo setup: 5 minutos
+Link: hubspot.com/free/email
+
+Necesitas:
+- Email
+- Nombre de empresa
+
+Alternativas:
+- Mailchimp (gratis)
+- Substack (gratis)
+- Brevo/Sendinblue (gratis)
+
+Solo úsalo si quieres reMarketing a clientes.
+
+---
+
+### 7. LINKEDIN (Opcional)
+Qué es: Profesional + marketing
+Costo: GRATIS (versión básica)
+Tiempo setup: 0 minutos
+Link: linkedin.com
+
+Solo útil si:
+- Ya tienes audiencia aquí
+- Quieres posicionarte como experto
+- Tu audiencia es B2B
+
+---
+
+## CUENTA BANCARIA IMPORTANTE
+
+Necesitas una cuenta bancaria para:
+- Recibir pagos de Stripe
+- Cobrar comisiones
+
+Si no tienes:
+- Abre una cuenta en tu banco local
+- O usa servicio digital (Mercado Pago, Wise, etc)
+- Toma 1-2 días
+
+Número que Stripe necesita:
+- CBU (Argentina)
+- Clabe (México)
+- Número de cuenta + routing (USA)
+- IBAN (Europa)
+
+Pregunta a tu banco cuál es el tuyo.
+
+---
+
+## ORDEN CORRECTO DE CREACIÓN
+
+✅ Paso 1: GUMROAD (2 min)
+✅ Paso 2: STRIPE (5 min) - espera aprobación mientras haces lo demás
+✅ Paso 3: TWITTER (2 min)
+✅ Paso 4: REDDIT (2 min)
+✅ Paso 5: FACEBOOK (0 min)
+✅ Paso 6: EMAIL (5 min) - opcional
+
+**Tiempo total: 15-20 minutos**
+
+---
+
+## CHECKLIST ANTES DE LANZAR
+
+✅ Gumroad funcionando
+✅ Stripe conectado a Gumroad (aprobado)
+✅ Twitter con bio + link a Gumroad
+✅ Reddit cuenta verificada
+✅ Facebook listo para publicar
+✅ Email listo (opcional pero recomendado)
+✅ 3 kits listos en Gumroad
+✅ Links de cada producto copiados
+
+---
+
+## SI ALGO FALLA
+
+### Problema: Stripe demora
+→ Solución: Mientras esperas, prepara todo lo demás. Stripe suele aprobar en 2-24h.
+
+### Problema: Twitter no deja publicar
+→ Solución: Verifica teléfono. A veces requiere verificación antes de publicar.
+
+### Problema: No recuerdo mis contraseñas
+→ Solución: Usa "Forgot Password" en cada sitio. Te envían reset link.
+
+### Problema: Documento rechazado en Stripe
+→ Solución: Toma foto más clara. Asegúrate de que se vea bien el documento completo.
+
+---
+
+## SEGURIDAD BÁSICA
+
+✅ Usa contraseña diferente para CADA cuenta
+✅ Guarda contraseñas en 1Password, LastPass o Bitwarden
+✅ NO compartas credenciales
+✅ Activa 2FA en Stripe y Twitter
+✅ Guarda tu CBU/IBAN seguro (nunca lo compartas)
+
+---
+
+## DESPUÉS DEL LANZAMIENTO
+
+### Primeras 24h:
+- Monitorea Stripe (primeros pagos)
+- Responde tweets/comentarios
+- Agradece a primeros compradores
+
+### Primera semana:
+- Pide feedback a compradores
+- Trackea conversión
+- Considera cambios si es necesario
+
+### Primera mes:
+- Revisa qué product vende más
+- Considera aumentar precio
+- Planifica próximo producto
+
+---
+
+## SUMMARY: TIEMPO TOTAL
+
+| Tarea | Tiempo | Obligatorio |
+|-------|--------|------------|
+| Gumroad | 2 min | SÍ |
+| Stripe | 5 min | SÍ |
+| Twitter | 2 min | SÍ |
+| Reddit | 2 min | Recomendado |
+| Facebook | 0 min | Recomendado |
+| Email | 5 min | Opcional |
+| **TOTAL** | **16-20 min** | — |
+
+Stripe toma 2-24h para aprobar, así que espera mientras haces lo demás.

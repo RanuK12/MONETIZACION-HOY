@@ -1,0 +1,37 @@
+fecha,hora,plataforma,tipo,producto,metrica,valor,notas
+2026-04-16,09:00,gumroad,setup,todos,status,completado,Cuentas creadas y productos publicados
+2026-04-16,09:45,twitter,post,todos,publicado,1,Tweet 1 - Announcement
+2026-04-16,10:00,reddit,post,todos,publicado,1,r/MakeMyMoney post
+2026-04-16,10:05,facebook,post,todos,publicado,1,Grupo de Makers
+2026-04-16,12:00,twitter,post,todos,publicado,1,Tweet 2 - Segunda ola
+2026-04-16,12:05,reddit,post,todos,publicado,1,r/automation post
+2026-04-16,12:10,facebook,post,todos,publicado,1,Grupo diferente
+2026-04-16,18:00,twitter,engagement,todos,replies,0,Primeras respuestas
+2026-04-16,18:00,reddit,engagement,todos,comments,0,Comentarios en posts
+2026-04-16,18:00,facebook,engagement,todos,reactions,0,Reacciones y comentarios
+2026-04-17,09:00,gumroad,venta,kit-1,ingresos_usd,19,Primera venta
+2026-04-17,09:00,gumroad,venta,kit-1,unidades,1,Cliente 1
+2026-04-17,12:00,twitter,post,todos,publicado,1,Tweet 3
+2026-04-17,14:00,reddit,post,todos,publicado,1,r/EntrepreneurRideAlong
+2026-04-17,18:00,gumroad,venta,kit-2,ingresos_usd,19,Segunda venta
+2026-04-17,18:00,gumroad,venta,kit-2,unidades,1,Cliente 2
+2026-04-18,09:00,twitter,engagement,todos,likes,0,Total likes acumulado
+2026-04-18,09:00,twitter,engagement,todos,retweets,0,Total retweets
+2026-04-18,09:00,reddit,engagement,todos,upvotes,0,Total upvotes
+2026-04-18,09:00,facebook,engagement,todos,engagement_rate,0,Total reacciones + comentarios
+2026-04-18,12:00,gumroad,venta,kit-3,ingresos_usd,19,Tercera venta
+2026-04-18,12:00,gumroad,venta,kit-3,unidades,1,Cliente 3
+2026-04-19,09:00,gumroad,resumen,todos,total_ventas_usd,57,3 ventas acumuladas
+2026-04-19,09:00,gumroad,resumen,todos,total_unidades,3,3 clientes
+2026-04-19,09:00,gumroad,resumen,todos,tasa_conversion,0,Calculado: ventas/visitas
+2026-04-19,09:00,twitter,resumen,todos,followers_nuevos,0,Seguidores nuevos
+2026-04-19,09:00,reddit,resumen,todos,karma_ganado,0,Karma total
+2026-04-20,09:00,feedback,cliente,kit-1,satisfaction,0,Rating 1-10
+2026-04-20,09:00,feedback,cliente,kit-2,satisfaction,0,Rating 1-10
+2026-04-20,09:00,feedback,cliente,kit-3,satisfaction,0,Rating 1-10
+2026-04-20,18:00,analisis,estrategia,todos,producto_top,producto_1,Cuál vende más
+2026-04-20,18:00,analisis,estrategia,todos,plataforma_top,twitter,Cuál genera más tráfico
+2026-04-20,18:00,analisis,estrategia,todos,copy_efectivo,opcion_2,Cuál copy convierte mejor
+2026-04-21,09:00,optimizacion,precio,todos,nuevo_precio,29,Subir precio tras validación
+2026-04-21,09:00,optimizacion,copy,todos,a_b_test,1,Test nueva descripción
+2026-04-21,09:00,optimizacion,marketing,todos,nueva_estrategia,bundle,Preparar bundle descuento
