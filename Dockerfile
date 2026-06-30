@@ -6,4 +6,4 @@ COPY . .
 
 RUN pip install -r requirements.txt
 
-CMD ["python", "script.py"]
+CMD ["python", "script.py"]# Dockerfile para el despliegue rápido
